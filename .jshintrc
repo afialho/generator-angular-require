@@ -1,0 +1,23 @@
+{
+	"bitwise": false,
+	"curly": false,
+	"eqeqeq": true,
+	"eqnull": true,
+	"esnext": true,
+	"globals": {
+		/* AMD */
+		"define" : false,
+		/* Custom */
+		"ngRoutes": false,
+		"ngSanitize": false,
+		"ngCookies": false,
+		"ngResource": false
+	},
+	"globalstrict": true,
+	"immed": true,
+	"latedef": true,
+	"newcap": true,
+	"noarg": true,
+	"strict": false,
+	"undef": true,
+}
